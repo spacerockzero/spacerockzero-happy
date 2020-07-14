@@ -1,3 +1,3 @@
-export function hello(x: string) : string {
+export function happy(x?: string) : string {
   return ':)'
 }
